@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"../shell"
+	"xc/shell"
 )
 
 // https://www.catalog.update.microsoft.com/Home.aspx

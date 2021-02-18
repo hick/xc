@@ -7,8 +7,8 @@ import (
 	"os/user"
 	"strconv"
 
-	"../plugins"
-	"../shell"
+	"xc/plugins"
+	"xc/shell"
 	"github.com/hashicorp/yamux"
 )
 

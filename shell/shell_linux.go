@@ -12,7 +12,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"../utils"
+	"xc/utils"
 )
 
 /*

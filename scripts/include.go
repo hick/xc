@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"../utils"
+	"xc/utils"
 )
 
 func copyFile(src string, dst string) {

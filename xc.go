@@ -10,8 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"./client"
-	"./server"
+	"xc/client"
+	"xc/server"
+
 	"github.com/hashicorp/yamux"
 )
 

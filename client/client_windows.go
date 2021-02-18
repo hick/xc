@@ -11,10 +11,10 @@ import (
 	"os"
 	"time"
 
-	"../plugins"
-	"../shell"
-	"../utils"
-	"../vulns"
+	"xc/plugins"
+	"xc/shell"
+	"xc/utils"
+	"xc/vulns"
 	"github.com/hashicorp/yamux"
 	"github.com/ropnop/go-clr"
 )

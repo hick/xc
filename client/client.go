@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"strings"
 
-	"../meter"
-	"../plugins"
-	"../shell"
-	"../utils"
+	"xc/meter"
+	"xc/plugins"
+	"xc/shell"
+	"xc/utils"
 	"github.com/hashicorp/yamux"
 )
 

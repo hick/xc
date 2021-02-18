@@ -11,7 +11,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"../utils"
+	"xc/utils"
 )
 
 const (

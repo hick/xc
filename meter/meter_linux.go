@@ -7,8 +7,8 @@ import (
 	"net"
 	"strconv"
 
-	"../shell"
-	"../utils"
+	"xc/shell"
+	"xc/utils"
 )
 
 // IP4toInt ...
